@@ -1,0 +1,4 @@
+CREATE TABLE product_type(
+id SERIAL PRIMARY KEY,
+name VARCHAR(29) NOT NULL
+)
